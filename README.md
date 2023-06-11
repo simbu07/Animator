@@ -77,6 +77,4 @@ public class IdleToCruch : MonoBehaviour
 ![image](https://user-images.githubusercontent.com/66360846/202152147-24f33439-82a6-44b9-857c-d5bed6ffb00c.png)
 
 ### Result:
-Animator using unity is developed successfully.
-## Result:
 Sucessfully developed a animator using unity with C# prgram and move the animator.
