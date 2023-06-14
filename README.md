@@ -1,5 +1,5 @@
-## Animator
-
+## Ex-7 Animator
+### Date: 22/5/2023
 ### Aim:
 To develop a animator using unity with C# prgram and move the animator.
 ### Algorithm:
